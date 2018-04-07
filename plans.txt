@@ -1,0 +1,19 @@
+##plans
+1.git operations should be used easily!
+2.maven arguments should be known.
+3.dubbo project intergation.
+4.auth system study and token creation strategy,including spring security auth.
+5.single sign on (SSO) demo
+6.spring data redis study.
+7.zookeeper lock study
+8.jdk5.6.7.8.9 differences
+9.领域模型，领域划分
+10.threads
+11.spring cloud demo.
+12.rpc study
+13.tomcat study
+14.mybatis study and mybatis pagination study.
+15.netty and mina study.
+16.python learning.
+17.vue.js learning
+18.待定,未完待续
