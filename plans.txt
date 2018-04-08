@@ -1,19 +1,22 @@
-##plans
-1.git operations should be used easily!
-2.maven arguments should be known.
-3.dubbo project intergation.
-4.auth system study and token creation strategy,including spring security auth.
-5.single sign on (SSO) demo
-6.spring data redis study.
-7.zookeeper lock study
-8.jdk5.6.7.8.9 differences
-9.领域模型，领域划分
-10.threads
-11.spring cloud demo.
-12.rpc study
-13.tomcat study
-14.mybatis study and mybatis pagination study.
-15.netty and mina study.
-16.python learning.
-17.vue.js learning
-18.待定,未完待续
+###技术栈###
+1.springmvc+mybatis(mybatis+pagination源码分析)
+2.dubbo搭建运行实例
+3.maven详细参数了解，多环境配置
+4.tomcat源码以及tomcat热部署
+5.jenkins部署（devops)
+6.日志监控以及大数据分析
+7.权限设计
+8.SSO设计以及使用
+9.领域模型
+10.分库分表中间件研究
+11.设计模式应用举例
+12.activiti工作流
+13.报表开发(schedule)
+14.定时任务系统
+15.springcloud
+16.前端精一个
+17.多线程、jdk并发包
+18.RPC框架
+19.tomcat框架实现
+20.OSGI框架实践
+21.应用组网
