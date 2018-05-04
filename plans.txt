@@ -20,3 +20,5 @@
 19.tomcat框架实现
 20.OSGI框架实践
 21.应用组网
+22.系统学习java(jvm,jase,jms,rmi,netty,io,nio,aio,file,design pattern等)
+23.前端使用angular.js或者vue.js框架
